@@ -1,5 +1,15 @@
-onst d = new Date();
-// console.log(d.toDateString()); // "Tue Jun 30 2026"
-// console.log(d.toTimeString()); // time part
-// console.log(d.toISOString()); // "2026-06-30T..."
-// console.log(d.toLocaleString());
+// Json array object.
+
+// [{
+//         "id": 1,
+//         "name": "Thor"
+//     },
+//     {
+//         "id": 2,
+//         "name": "Ironman"
+//     },
+//     {
+//         "id": 3,
+//         "name": "Spiderman"
+//     }
+// ]
